@@ -4,19 +4,25 @@ This library is designed to help you create customizable mouse cursor images. Yo
 
 ## 📖 User Guide
 
-1. As a first step, include the `crsr` library in your project.
+1. As a first step, install the `crsr` library in your project using npm.
 
-    ```javascript
-    import CustomCursor from './crsr.js'; // adjust the library path
+    ```bash
+    npm install crsr
     ```
 
-2. Next, create a new instance of `CustomCursor`.
+2. Next, include the `crsr` library in your project.
+
+    ```javascript
+    import CustomCursor from 'crsr';
+    ```
+
+3. Then, create a new instance of `CustomCursor`.
 
     ```javascript
     const customCursor = new CustomCursor();
     ```
 
-3. The library will track the mouse position and update the cursor accordingly.
+4. The library will track the mouse position and update the cursor accordingly.
 
 ## 🎨 Style Options
 
@@ -75,3 +81,9 @@ We look forward to seeing your contributions! Thank you for making crsr an even 
 If you have any questions or need assistance, don't hesitate to reach out by opening an issue or sending us a message.
 
 Let's make crsr together! 🚀
+
+----
+
+You can mail me on <a href="mailto:aligunesv2@gmail.com">aligunesv2@gmail.com</a>
+
+and here is my website [imvora.dev](https://www.imvora.dev)
