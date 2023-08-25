@@ -82,8 +82,11 @@ If you have any questions or need assistance, don't hesitate to reach out by ope
 
 Let's make crsr together! 🚀
 
-----
+---
 
 You can mail me on <a href="mailto:aligunesv2@gmail.com">aligunesv2@gmail.com</a>
 
 and here is my website [imvora.dev](https://www.imvora.dev)
+
+[go to npm page](https://www.npmjs.com/package/crsr)
+
