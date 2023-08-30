@@ -1,4 +1,4 @@
-# crsr - customizable mouse cursor library
+# crsr - customizable mouse cursor library 🖱
 
 This library is designed to help you create customizable mouse cursor images. You can switch between different styles and display your mouse cursor in interesting ways.
 
